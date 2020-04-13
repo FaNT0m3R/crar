@@ -1,0 +1,6 @@
+F:\Projects\учебные\crar\server\bin\Debug\server.exe
+F:\Projects\учебные\crar\server\bin\Debug\server.pdb
+F:\Projects\учебные\crar\server\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Projects\учебные\crar\server\obj\x86\Debug\server.exe
+F:\Projects\учебные\crar\server\obj\x86\Debug\server.pdb
+F:\Projects\учебные\crar\server\bin\Debug\server.exe.config

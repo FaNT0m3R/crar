@@ -1,0 +1,17 @@
+F:\Projects\учебные\crar\client\bin\Debug\client.exe.manifest
+F:\Projects\учебные\crar\client\bin\Debug\client.application
+F:\Projects\учебные\crar\client\bin\Debug\client.exe
+F:\Projects\учебные\crar\client\bin\Debug\client.pdb
+F:\Projects\учебные\crar\client\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Projects\учебные\crar\client\obj\x86\Debug\client.Form1.resources
+F:\Projects\учебные\crar\client\obj\x86\Debug\client.FrmSettings.resources
+F:\Projects\учебные\crar\client\obj\x86\Debug\client.Properties.Resources.resources
+F:\Projects\учебные\crar\client\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Projects\учебные\crar\client\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Projects\учебные\crar\client\obj\x86\Debug\client.exe.manifest
+F:\Projects\учебные\crar\client\obj\x86\Debug\client.application
+F:\Projects\учебные\crar\client\obj\x86\Debug\client.exe
+F:\Projects\учебные\crar\client\obj\x86\Debug\client.pdb
+F:\Projects\учебные\crar\client\obj\x86\Debug\client.FrmWait.resources
+F:\Projects\учебные\crar\client\obj\x86\Debug\client.AccessQuestion.resources
+F:\Projects\учебные\crar\client\bin\Debug\client.exe.config
